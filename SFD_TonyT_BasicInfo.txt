@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Tony Tan - SFD Cohort 4</h1>
-    <p>I'm a computer science student who enjoys problem solving. I like rabbits and Ice cream.</p>
+    <p>I'm a computer science student who enjoys problem solving. I like rabbits and Ice cream!</p>
 </body>
 </html>
