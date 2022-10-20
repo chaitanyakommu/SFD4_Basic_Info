@@ -1,0 +1,12 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Info - Tony Tan</title>
+</head>
+<body>
+    <h1>Tony Tan - SFD Cohort 4</h1>
+    <p>I'm a computer science student who enjoys problem solving. I like rabbits and Ice cream.</p>
+</body>
+</html>
