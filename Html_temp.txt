@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <p> Hi SFD04 members I'm Lavanya. I'm from Sydney and i did my Masters in Computer Applications. 
+    I came to Australia 5 years ago and I've two beautiful kids. I'm a clay artist, i make jewelleries, 
+    throw mini pottery and do crafts. </p>
 </body>
 </html>
